@@ -1,0 +1,54 @@
+{
+    "languages": [
+        {
+            "name": "C/C++",
+            "description": "C/C++ is a programming language used for system and application development. I learned it during my second year of undergraduate studies, self-taught."
+        },
+        {
+            "name": "Python",
+            "description": "Python is a versatile and easy-to-learn programming language. I learned it during my second year of undergraduate studies, self-taught, and refined it in my master's program (Courses and Internships)."
+        },
+        {
+            "name": "Java",
+            "description": "Java is an object-oriented programming language used for developing web and mobile applications. I learned it in my second year of master's program, using Maven."
+        },
+        {
+            "name": "JavaScript",
+            "description": "JavaScript is the programming language of the web, allowing interactivity on websites. I learned it self-taught in an associative context, as well as during an internship."
+        },
+        {
+            "name": "TypeScript",
+            "description": "TypeScript is a superset of JavaScript that adds static typing. I learned it following JavaScript, in an associative context."
+        },
+        {
+            "name": "SQL",
+            "description": "SQL is a query language used to manage and query databases. I learned it during my master's program."
+        },
+        {
+            "name": "Bash",
+            "description": "Bash is a scripting language used in UNIX/Linux systems to automate tasks. I learned it self-taught during my second year of undergraduate studies, and refined it in my master's program (Courses and Internships)."
+        },
+        {
+            "name":"Docker",
+            "description": "Docker is a platform that automates the deployment of applications in lightweight and portable containers. I learned it self-taught, in an associative context."
+        },
+        {
+            "name": "React",
+            "description": "React is a JavaScript library for building interactive and dynamic user interfaces. I learned it self-taught, in an associative context (Courses and Internship)."
+        }
+    ],
+    "BiologicalProcess": [
+        {
+            "name": "Dosage",
+            "description": "Dosage is a technique used to measure the concentration of a substance. I learned it during my third year of undergraduate studies."
+        },
+        {
+            "name": "Western-Blot",
+            "description": "Western Blot is a method used to detect specific proteins in a sample. I learned it during my third year of undergraduate studies."
+        },
+        {
+            "name": "Cloning",
+            "description": "Cloning is a technique in molecular biology to create genetic copies of an organism. I learned it during my third year of undergraduate studies."
+        }
+    ]
+}
